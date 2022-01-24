@@ -1,4 +1,4 @@
-# Reaction Bot
+# pepebeans Reaction Bot
 Basic reaction bot written using the Go bindings. Reacts to every message in a specified channel with a specified emote.
 
 ## Usage
